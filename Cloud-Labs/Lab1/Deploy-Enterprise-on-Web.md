@@ -11,4 +11,4 @@ Chrome browser to access the HUAWEI CLOUD login page. Select IAM User Login. In 
 login dialog box, enter the assigned HUAWEI CLOUD lab account and password to log in to
 HUAWEI CLOUD, as shown in the following figure.
 
-Cloud-Labs/Lab1/images/1.PNG
+(Cloud-Labs/Lab1/images/1.PNG)
